@@ -1,0 +1,9 @@
+Package: com.flobul.lightsensor
+Name: lightsensor
+Version: 0.1.0
+Architecture: iphoneos-arm
+Description: Read values from ambient light sensor 
+Maintainer: Flobul
+Author: Flobul
+Section: System
+Tag: role::hacker
